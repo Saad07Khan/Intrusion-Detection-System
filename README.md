@@ -7,7 +7,8 @@
 - Modeling: CNN, LSTM, and Hybrid CNN-LSTM architectures.
 - Generalization Techniques: Dropout, L2 regularization, batch normalization, early stopping, and learning rate scheduling.
   
-# Evaluation: Accuracy, ROC AUC, PR AUC, confusion matrix, ROC and PR curve visualizations.
+# Evaluation: 
+Accuracy, ROC AUC, PR AUC, confusion matrix, ROC and PR curve visualizations.
 # Usage
 - Download the dataset using KaggleHub.
 - Run ids.ipynb step-by-step in Jupyter or Google Colab.
